@@ -22,3 +22,4 @@ Bence Gacs
 
 ## License
 [just a random link to exercice1](exercice1.md)
+[just a random link to exercice2](exercice2.md)
