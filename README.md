@@ -19,6 +19,8 @@ after pressing enter you'll receive your message
 
 ## Author
 Bence Gacs
+https://github.com/billgec
+https://www.fh-joanneum.at/
 
 ## License
 [just a random link to exercice1](exercice1.md)
