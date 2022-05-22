@@ -6,7 +6,7 @@ public class Calculator {
 
     public static void main(String[] args) {
         double number1 = 113;
-        double number2 = 2;
+        double number2 = 12;
         System.out.println(add(number1, number2));
         System.out.println(minus(number1, number2));
         System.out.println(divide(number1, number2));

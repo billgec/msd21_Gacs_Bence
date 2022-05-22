@@ -1,0 +1,19 @@
+21:16:17.415 [main] DEBUG Calculator - 113.0
+21:16:17.417 [main] DEBUG Calculator - 113.0
+21:16:17.417 [main] DEBUG Calculator - 113.0
+21:16:17.417 [main] ERROR Calculator - dividing by zero not possible
+21:16:17.417 [main] DEBUG Calculator - 113.0
+21:16:17.417 [main] INFO  Calculator - hello world
+21:16:17.417 [main] ERROR Calculator - foo
+21:16:40.563 [main] DEBUG Calculator - 113.0
+21:16:40.564 [main] DEBUG Calculator - 113.0
+21:16:40.564 [main] DEBUG Calculator - 113.0
+21:16:40.565 [main] DEBUG Calculator - 113.0
+21:16:40.565 [main] INFO  Calculator - hello world
+21:16:40.565 [main] ERROR Calculator - foo
+21:17:24.312 [main] DEBUG Calculator - 113.0
+21:17:24.314 [main] DEBUG Calculator - 113.0
+21:17:24.314 [main] DEBUG Calculator - 113.0
+21:17:24.314 [main] DEBUG Calculator - 113.0
+21:17:24.315 [main] INFO  Calculator - hello world
+21:17:24.315 [main] ERROR Calculator - foo
