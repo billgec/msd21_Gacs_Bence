@@ -16,16 +16,20 @@ public class Calculator {
     }
 
     public static double add(double number1, double number2) {
+        logger.debug(String.valueOf(number1),String.valueOf(number2));
         return number1 + number2;
     }
 
     public static double minus(double number1, double number2) {
+        logger.debug(String.valueOf(number1),String.valueOf(number2));
         return number1 - number2;
     }
 
     public static double divide(double number1, double number2) {
+        logger.debug(String.valueOf(number1),String.valueOf(number2));
         if (number2 == 0) {
             System.out.println("bad");
+            logger.error("dividing by zero not possible");
         } else {
             return number1 / number2;
         }
@@ -33,6 +37,7 @@ public class Calculator {
     }
 
     public static double multiply(double number1, double number2) {
+        logger.debug(String.valueOf(number1),String.valueOf(number2));
         return number1 * number2;
     }
 
