@@ -1,6 +1,14 @@
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+/**
+ * This is a small calculator
+ *
+ * @author bence
+ * @param  number1  this the first half of the calculator
+ * @param  number2 this is the second half of the calculator
+ * @return      each method returns the correspoding calculation
+ */
 public class Calculator {
     private static Logger logger = LogManager.getLogger();
 
