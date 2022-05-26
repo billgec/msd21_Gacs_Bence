@@ -1,0 +1,16 @@
+<project name="Drinks Documentation Demo">
+    <publishDate position="right"/>
+    <version position="left"/>
+    <body>
+        <menu name="Overview">
+            <item name="Introduction" href="index.html"/>
+            <item name="Test" href="test.html"/>
+            <item name="Drinks" href="drinks.html"/>
+            <item name="goodstyle" href="good_style.md"/>
+        </menu>
+        <menu ref="reports"/>
+        <menu ref="parent"/>
+        <menu ref="modules"/>
+        <menu ref="good_style"/>
+    </body>
+</project>
